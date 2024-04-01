@@ -2,17 +2,17 @@
 
 <h2>Description</h2>
 
-In the Qualys Vulnerability Management Course, I gained foundational knowledge in identifying and mitigating security risks. I learned to define vulnerabilities, understand the importance of Vulnerability Management, and establish effective scopes for assessments. Additionally, I explored different options for managing vulnerabilities and evaluated their effectiveness in network monitoring and risk identification. By completing this course, I obtained essential skills and insights into best practices for Vulnerability Management.
+The Qualys Endpoint Detection and Response (EDR) Foundation course provided comprehensive insights into endpoint security solutions, malware types, and families, and the mechanisms through which malware spreads. I gained a deep understanding of terminologies relevant to EDR, as well as the technologies, tools, and frameworks utilized in developing endpoint security solutions to combat threats effectively. Moreover, the course equipped me with the ability to assess and compare typical EDR solutions with an ideal EDR solution. Through video presentations and knowledge checks, I enhanced my understanding of these crucial concepts, reinforcing my proficiency in endpoint security strategies.
 
 
 
 <h2>Skills Demonstrated:</h2>
 
-- **Comprehensive Understanding of Vulnerabilities:**  Developed a clear understanding of vulnerabilities and their implications for organizational security.
-- **Appreciation for Vulnerability Management:** Recognized the importance of Vulnerability Management in proactively identifying and mitigating security risks.
-- **Scope Definition Proficiency:** Acquired the skills to define the scope of Vulnerability Management initiatives based on organizational needs and priorities.
-- **Evaluation of VM Solutions:** Evaluated various options for Vulnerability Management solutions and assessed their effectiveness in network monitoring and risk identification.
-- **Adoption of Best Practices:** Demonstrated knowledge of best practices in Vulnerability Management, ensuring adherence to industry standards and guidelines.
+- **Understanding Endpoint Security Solutions:** Enhanced understanding of endpoint security solutions and their significance.
+- **Identifying Malware Types and Families:** Identified various types and families of malware and their propagation techniques.
+- **Familiarity with Endpoint Detection and Response (EDR) Terminology:** Expanded knowledge of terminologies specific to Endpoint Detection and Response (EDR).
+- **Knowledge of Technologies, Tools, and Frameworks for Endpoint Security:** Familiarity with the technologies, tools, and frameworks employed in endpoint security solutions.
+- **Ability to Evaluate and Compare EDR Solutions:** Developed skills to evaluate and compare EDR solutions based on predefined parameters.
   
 <h2>Program walk-through:</h2>
 
