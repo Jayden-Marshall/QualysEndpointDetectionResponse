@@ -1,4 +1,4 @@
-<h1>Qualys Endpoint Detection & Response <a href="https://pdf.ac/2224fF">Certification</a> </h1>
+<h1>Qualys Endpoint Detection & Response 
 
 <h2>Description</h2>
 
@@ -14,43 +14,10 @@ The Qualys Endpoint Detection and Response (EDR) Foundation course provided comp
 - **Knowledge of Technologies, Tools, and Frameworks for Endpoint Security:** Familiarity with the technologies, tools, and frameworks employed in endpoint security solutions.
 - **Ability to Evaluate and Compare EDR Solutions:** Developed skills to evaluate and compare EDR solutions based on predefined parameters.
   
-<h2>Program walk-through:</h2>
+**Certification of Completeion:**
+<img src="https://github.com/Jayden-Marshall/QualysEndpointDetectionResponse/assets/145166234/c5f0ecaa-a16a-4c8a-9c42-66a7ad24d548" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
+
+
